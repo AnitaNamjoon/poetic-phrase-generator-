@@ -1,4 +1,4 @@
-Poetic Phrase Generator
+# Poetic Phrase Generator
 
 A lightweight web application that generates witty, creative, and poetic phrases inspired by everyday activities, moods, and places.
 Built to spark creativity and add a fun twist to your daily browsing.
